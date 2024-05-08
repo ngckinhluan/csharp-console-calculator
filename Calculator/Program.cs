@@ -31,6 +31,7 @@ class Calculator
             // Return text for an incorrect option entry.
            
             default:
+                Console.WriteLine("Invalid operation!");
                 break;
             }
         return result;
