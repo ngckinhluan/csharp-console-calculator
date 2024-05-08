@@ -6,4 +6,4 @@
 * .gitignore file for Visual Studio project
 * README.md: this file itself - using the Markdown language
 
-### © 2024 luan.tran | Github: [ngckinhluan](https://github.com/ngckinhluan)
+### © 2024 luan.tran | GitHub: [ngckinhluan](https://github.com/ngckinhluan)
