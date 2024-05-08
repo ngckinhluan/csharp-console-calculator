@@ -31,7 +31,6 @@ class Calculator
             // Return text for an incorrect option entry.
            
             default:
-                Console.WriteLine("Stupid AF");
                 break;
             }
         return result;
